@@ -1,7 +1,6 @@
 # Notepad-Project-Android-Kotlin
 App que permite criar, alterar, remover e visualizar notas em uma lista no formato de grid.
 
-
 # 🔨 Funcionalidades do projeto
 O Notepad permite criar notas com título, descrição e imagem. Também, todas as alterações realizadas, são armazenadas em uma Web API dedicada que pode ser utilizada a partir deste projeto.
 Além de realizar a integração com a Web API, o App também realiza um mecanismo de sincronização, permitindo que as pessoas alterem as notas sem acesso a internet, e então, após obter acesso a rede, é possível reenviar todas as alterações, seja inserção, alteração ou remoção de notas.
