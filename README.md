@@ -25,7 +25,7 @@ Coil: carregar imagens a partir de URLs;
 View Binding: buscar views do layout de forma segura.
 
 # 📂Acesso ao projeto
-Você pode acessar o código fonte do projeto inicial ou baixá-lo.
+Você pode acessar o código fonte do projeto inicial https://github.com/lueny-dantas/Notepad-Project-Android-Kotlin ou baixá-lo.
 
 
 # 🛠️ Abrir e rodar o projeto
