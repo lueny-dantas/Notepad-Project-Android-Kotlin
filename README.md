@@ -2,7 +2,7 @@
 Ceep
 App que permite criar, alterar, remover e visualizar notas em uma lista no formato de grid.
 
-🔨 Funcionalidades do projeto
+#🔨 Funcionalidades do projeto
 O Ceep permite criar notas com título, descrição e imagem. Também, todas as alterações realizadas, são armazenadas em uma Web API dedicada que pode ser utilizada a partir deste projeto.
 
 Além de realizar a integração com a Web API, o App também realiza um mecanismo de sincronização, permitindo que as pessoas alterem as notas sem acesso a internet, e então, após obter acesso a rede, é possível reenviar todas as alterações, seja inserção, alteração ou remoção de notas.
@@ -11,7 +11,7 @@ Além de realizar a integração com a Web API, o App também realiza um mecanis
 gif
 
 
-✔️ Técnicas e tecnologias utilizadas
+#✔️ Técnicas e tecnologias utilizadas
 As técnicas e tecnologias utilizadas no projeto foram:
 
 Room: armazenar os dados em banco de dados
@@ -28,7 +28,7 @@ View Binding: buscar views do layout de forma segura
 Acesso ao projeto
 Você pode acessar o código fonte do projeto inicial ou baixá-lo.
 
-🛠️ Abrir e rodar o projeto
+#🛠️ Abrir e rodar o projeto
 Após baixar o projeto, você pode abrir com o Android Studio. Para isso, na tela de launcher clique em:
 
 Open an Existing Project (ou alguma opção similar)
